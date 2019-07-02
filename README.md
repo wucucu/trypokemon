@@ -5,7 +5,7 @@ This repo is inspired by the dataset [pokemon dataset](https://www.kaggle.com/ab
 
 ## [ ] Prepare the pictures
 
-TBH, I am not a huge fan of Pokémon while Pikachu might be the only pokemon specie I know. So the plan now is to scrap each specie's picture. Try to use [Scrapy](https://github.com/scrapy/scrapy).
+TBH, I am not a huge fan of Pokémon while Pikachu might be the only pokemon specie I know. So the plan now is to scrap each specie's picture. Try to use [Scrapy](https://github.com/scrapy/scrapy) and scrap data from [pokemon.com](https://www.pokemon.com/us/pokedex/).
 
 ## [ ] Simple EDA
 
